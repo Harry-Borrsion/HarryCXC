@@ -3,8 +3,8 @@
 <img align='right' src="https://cdn.jsdelivr.net/gh/fushaolei/img/20200717001629.gif" width="80">
 
 ````bash
-> 一个大四在校生，通信工程移动方向，目前在准备找实习QAQ。
-> 兴趣是读书，摄影
+> 点点点工程师
+> 
 ````
 ````bash
 > blog: https://harryborrsion.cn/
